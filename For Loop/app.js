@@ -277,7 +277,7 @@
 // </table>`
 // }
 
-// ////////////////////////////   Proper tarike se complete nhi hoa ha
+
 //                            Question 14
 // 14. Write a program that prints number from start of the array 
 // to desired stop value. Given array: 
@@ -302,7 +302,7 @@
 // if(scores[i] !== stopValue){
 //     div.innerHTML += `<div>Your value is not available in the array</div>`
 // }
-//                      Proper tarike se nahi hoa
+
 
 
 
